@@ -1,4 +1,4 @@
-The SeamCarver project functions as a robust image processing tool employing algorithmic design to detect and eliminate less "interesting" paths within a picture. 
+The Seamsplitter project functions as a robust image processing tool employing algorithmic design to detect and eliminate less "interesting" paths within a picture. 
 Through color comparison, the project identifies and eliminates these paths, resulting in an image with reduced extraneous elements. This process is commonly known as image seam carving.
 
 Seam Carving: Seam carving stands as a content-aware image resizing technique, automatically excising less crucial portions of the image to resize it without distortion.
